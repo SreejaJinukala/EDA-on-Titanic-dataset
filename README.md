@@ -1,7 +1,7 @@
 # EDA-on-Titanic-dataset
 Welcome to the Titanic Data Exploratory Data Analysis (EDA) project! This project explores the famous Titanic dataset to uncover patterns and factors that influenced passenger survival. Through a series of analyses and visualizations, we dive deep into the data to understand how variables such as age, gender, ticket class, and family relations affected survival chances.
 
-Table of Contents
+**Table of Contents**
 Project Overview
 Dataset Information
 Project Structure
@@ -12,7 +12,7 @@ Usage
 Dependencies
 Contributing
 License
-Project Overview
+**Project Overview**
 This project conducts a detailed exploratory data analysis on the Titanic dataset to:
 
 Validate assumptions and perform data cleaning.
@@ -30,7 +30,7 @@ Number of parents/children aboard (Parch)
 Ticket and Fare
 Cabin and Embarked location: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
 
-Methodology
+**Methodology**
 Data Cleaning: Address missing values, standardize data formats, and ensure dataset integrity.
 Feature Engineering: Extract and create relevant features (e.g., family size, title extraction from names).
 Exploratory Data Analysis:
@@ -45,5 +45,5 @@ Age: Children and younger passengers tended to survive at higher rates than olde
 Family Size: Passengers with small family sizes (1–3 members) had a better chance of survival.
 These findings provide insight into the factors influencing survival and lay the foundation for future predictive modeling efforts.
 
-Contributing
+**Contributing**
 Contributions are welcome! If you would like to improve the analysis, add new visualizations, or optimize the code, feel free to submit a pull request.
